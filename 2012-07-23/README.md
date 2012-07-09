@@ -22,4 +22,4 @@ mokmok_2012-07-23
 * http://kpt-it.herokuapp.com/6ef3521b4e7396f956e574972947fba1
 
 # toggeter
-* http://togetter.com/335137
+* http://togetter.com/li/335137

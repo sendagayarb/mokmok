@@ -14,6 +14,7 @@ mokmok_2012-07-23
 * [@ppworks](http://twitter.com/ppworks) [Railsにおける RESTfulなURL設計 勉強会](http://www.slideshare.net/naotokoshikawa/rails-restfulurl)
 * [@fukajun](http://twitter.com/fukajun) [Railsによるurlの描き方](http://www.slideshare.net/fukajun/railsurl)
 * [@ppworks](http://twitter.com/ppworks) [RESTful APIとしてのRailsとクライアントとしてのJavaScript](http://www.slideshare.net/naotokoshikawa/restful-apirailsjavascript)
+* [@tkawa](http://twitter.com/tkawa) [リソースモデリングパターンの提案](http://www.slideshare.net/tkawa1/resource-modeling-pattern)
 
 # 参加者
 参加者の皆さんの自己紹介URLはURLがない場合は文章やキーワードでも良いので記載お願いします。

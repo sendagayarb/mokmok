@@ -9,6 +9,11 @@ mokmok_2012-07-23
 * [Sendagaya.rb #12 - Zussar](http://www.zusaar.com/event/324057)
 
 
+# 発表内容
+
+* [Railsにおける RESTfulなURL設計 勉強会](http://www.slideshare.net/naotokoshikawa/rails-restfulurl)
+* [RESTful APIとしてのRailsとクライアントとしてのJavaScript](http://www.slideshare.net/naotokoshikawa/restful-apirailsjavascript)
+
 # 参加者
 参加者の皆さんの自己紹介URLはURLがない場合は文章やキーワードでも良いので記載お願いします。
 

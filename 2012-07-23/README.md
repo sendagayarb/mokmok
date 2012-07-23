@@ -11,9 +11,9 @@ mokmok_2012-07-23
 
 # 発表内容
 
-* [@ppworks](http://twitter.com/ppworks)[Railsにおける RESTfulなURL設計 勉強会](http://www.slideshare.net/naotokoshikawa/rails-restfulurl)
-* [@fukajun](http://twitter.com/fukajun)[Railsによるurlの描き方](http://www.slideshare.net/fukajun/railsurl)
-* [@ppworks](http://twitter.com/ppworks)[RESTful APIとしてのRailsとクライアントとしてのJavaScript](http://www.slideshare.net/naotokoshikawa/restful-apirailsjavascript)
+* [@ppworks](http://twitter.com/ppworks) [Railsにおける RESTfulなURL設計 勉強会](http://www.slideshare.net/naotokoshikawa/rails-restfulurl)
+* [@fukajun](http://twitter.com/fukajun) [Railsによるurlの描き方](http://www.slideshare.net/fukajun/railsurl)
+* [@ppworks](http://twitter.com/ppworks) [RESTful APIとしてのRailsとクライアントとしてのJavaScript](http://www.slideshare.net/naotokoshikawa/restful-apirailsjavascript)
 
 # 参加者
 参加者の皆さんの自己紹介URLはURLがない場合は文章やキーワードでも良いので記載お願いします。
@@ -22,6 +22,8 @@ mokmok_2012-07-23
   * ポジションペーパー:http://ppworks.info
 * fukajun
   * ポジションペーパー:http://kitbc.s41.xrea.com/main/
+
+![whiteboard](http://distilleryimage9.instagram.com/551a2a3ed4c511e1b10e123138105d6b_7.jpg)
 
 
 # KPT

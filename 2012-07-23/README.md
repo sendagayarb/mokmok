@@ -15,6 +15,7 @@ mokmok_2012-07-23
 * [@fukajun](http://twitter.com/fukajun) [Railsによるurlの描き方](http://www.slideshare.net/fukajun/railsurl)
 * [@ppworks](http://twitter.com/ppworks) [RESTful APIとしてのRailsとクライアントとしてのJavaScript](http://www.slideshare.net/naotokoshikawa/restful-apirailsjavascript)
 * [@tkawa](http://twitter.com/tkawa) [リソースモデリングパターンの提案](http://www.slideshare.net/tkawa1/resource-modeling-pattern)
+* [@t_wada)(http://twitter.com/t_wada) [RESTful Web アプリの設計レビューの話](http://www.slideshare.net/t_wada/restful-web-design-review)
 * [@moro](http://twitter.com/moro) [一周目のリソース設計](https://speakerdeck.com/u/moro/p/rails-resource-routing-design-bootstrap-ja)
 
 # 参加者

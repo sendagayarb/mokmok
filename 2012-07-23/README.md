@@ -29,7 +29,7 @@ mokmok_2012-07-23
 
 
 # KPT
-* http://kpt-it.herokuapp.com/6ef3521b4e7396f956e574972947fba1
+* なし
 
 # toggeter
 * http://togetter.com/li/335137

@@ -38,7 +38,7 @@ mokmok_2012-07-23
 # blog
 * [RailsにおけるRESTfulなURL設計勉強会 メモ #sendagayarb -130単位](http://d.hatena.ne.jp/deeeki/20120724/rails_restful_modeling)
 * [RailsにおけるRESTfulなURL設計勉強会 千駄ヶ谷.rb #12 に参加してきた - joker1007の日](http://d.hatena.ne.jp/joker1007/20120723/1343064276)
-* [アクションは大きくしない、member はリソースの一部を扱うところ - わからん](http://d.hatena.ne.jp/joker1007/20120723/1343064276)
+* [アクションは大きくしない、member はリソースの一部を扱うところ - わからん](http://d.hatena.ne.jp/kitokitoki/20120724/p1)
 * [再考 RESTful APIとしてのRailsとクライアントとしてのJavaScript - ppworks blog](http://ppworks.hatenablog.jp/entry/2012/07/24/062620)
 * [RailsにおけるRESTfulなURL設計勉強会 千駄ヶ谷.rb #12 - DeepValleyまとめ版 fukajun](http://kitbc.s41.xrea.com/main/?restful_url_sendagayarb)
 * [RailsにおけるRESTfulなURL設計勉強会 千駄ヶ谷.rb #12 に行きました- Shoken OpenSource Society](http://shoken.hatenablog.com/entry/2012/07/24/124831)

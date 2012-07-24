@@ -15,6 +15,7 @@ mokmok_2012-07-23
 * [@fukajun](http://twitter.com/fukajun) [Railsによるurlの描き方](http://www.slideshare.net/fukajun/railsurl)
 * [@ppworks](http://twitter.com/ppworks) [RESTful APIとしてのRailsとクライアントとしてのJavaScript](http://www.slideshare.net/naotokoshikawa/restful-apirailsjavascript)
 * [@tkawa](http://twitter.com/tkawa) [リソースモデリングパターンの提案](http://www.slideshare.net/tkawa1/resource-modeling-pattern)
+* [@moro](http://twitter.com/moro) [一周目のリソース設計](https://speakerdeck.com/u/moro/p/rails-resource-routing-design-bootstrap-ja)
 
 # 参加者
 参加者の皆さんの自己紹介URLはURLがない場合は文章やキーワードでも良いので記載お願いします。
@@ -38,3 +39,4 @@ mokmok_2012-07-23
 * [RailsにおけるRESTfulなURL設計勉強会 千駄ヶ谷.rb #12 に参加してきた - joker1007の日](http://d.hatena.ne.jp/joker1007/20120723/1343064276)
 * [アクションは大きくしない、member はリソースの一部を扱うところ - わからん](http://d.hatena.ne.jp/joker1007/20120723/1343064276)
 * [再考 RESTful APIとしてのRailsとクライアントとしてのJavaScript - ppworks blog](http://ppworks.hatenablog.jp/entry/2012/07/24/062620)
+* [RailsにおけるRESTfulなURL設計勉強会 千駄ヶ谷.rb #12 - DeepValleyまとめ版 fukajun](http://kitbc.s41.xrea.com/main/?restful_url_sendagayarb)

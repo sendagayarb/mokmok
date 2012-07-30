@@ -34,6 +34,8 @@ mokmok_2012-07-30
   * ポジションペーパー(かなり昔の):http://goo.gl/qS13y
 * netwillnet
   * ポジションペーパー？: http://willnet.in/
+* kozo002
+  * ポジションペーパー : http://about.me/kozo.yamagata
 
 #
 

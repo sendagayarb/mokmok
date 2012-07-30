@@ -9,10 +9,15 @@ mokmok_2012-07-30
 * [Sendagaya.rb公式サイト](http://sendagayarb.github.com)
 * [Sendagaya.rb # - Zussar](http://www.zusaar.com/event/)
 
-# LT発表資料
+# 流れ
+* 19:00 説明 + 自己紹介 + 各自やること発表（※1人1分が基本）
+* 19:30 未定
 
-* [@ppworks](http://twitter.com/ppworks) [Sendagayar.rb これまでを振り返ってみる](http://www.slideshare.net/naotokoshikawa/sendagayarrb)
 
+* 21:00 振り返り(やったこと発表,KPT)
+  * 自分でまとめたREADME.mdをもとに成果を発表（※1人3分が基本）
+  * 発表は１台のパソコンでやります見せたいモノがある場合は言ってください。
+* 21:30 終了&撤収(渋谷・原宿方面の方はウォーキング組あり)
 
 # 参加者
 参加者の皆さんの自己紹介URLはURLがない場合は文章やキーワードでも良いので記載お願いします。
@@ -22,6 +27,12 @@ mokmok_2012-07-30
 * fukajun
   * ポジションペーパー:http://kitbc.s41.xrea.com/main/
 
+
+# 質問したいこと
+- 例)業務でこんなことやるんだけど誰か知ってる？
+
+# KPT
+* http://kpt-it.herokuapp.com/6ef3521b4e7396f956e574972947fba1
 
 # toggeter
 * http://togetter.com/

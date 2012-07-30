@@ -7,13 +7,15 @@ mokmok_2012-07-30
 毎回はじまる30分前にheroku devcenterの読書会もしようと思ってます。
 
 * [Sendagaya.rb公式サイト](http://sendagayarb.github.com)
-* [Sendagaya.rb # - Zussar](http://www.zusaar.com/event/)
+* [Sendagaya.rb # - Zussar](http://www.zusaar.com/event/347006)
 
 # 流れ
 * 19:00 説明 + 自己紹介 + 各自やること発表（※1人1分が基本）
-* 19:30 未定
-
-
+* 19:15 (集まり次第) Sendagaya.rbの紹介 by [@ppworks](http://twitter.com/ppworks)
+* 19:30 RESTful勉強会の振り返り（復習）
+    * [@tkawa](http://twitter.com/tkawa) [リソースモデリングパターンの提案](http://www.slideshare.net/tkawa1/resource-modeling-pattern)
+    * [@t_wada](http://twitter.com/t_wada) [RESTful Web アプリの設計レビューの話](http://www.slideshare.net/t_wada/restful-web-design-review)
+    * [@moro](http://twitter.com/moro) [一周目のリソース設計](https://speakerdeck.com/u/moro/p/rails-resource-routing-design-bootstrap-ja)
 * 21:00 振り返り(やったこと発表,KPT)
   * 自分でまとめたREADME.mdをもとに成果を発表（※1人3分が基本）
   * 発表は１台のパソコンでやります見せたいモノがある場合は言ってください。
@@ -26,10 +28,14 @@ mokmok_2012-07-30
   * ポジションペーパー:http://ppworks.info
 * fukajun
   * ポジションペーパー:http://kitbc.s41.xrea.com/main/
+* shu_0115
+  * ポジションペーパー:http://shu0115.github.com/portfolio/
+* iR3
+  * ポジションペーパー(かなり昔の):http://goo.gl/qS13y
+* netwillnet
+  * ポジションペーパー？: http://willnet.in/
 
-
-# 質問したいこと
-- 例)業務でこんなことやるんだけど誰か知ってる？
+#
 
 # KPT
 * http://kpt-it.herokuapp.com/6ef3521b4e7396f956e574972947fba1

@@ -7,7 +7,7 @@ mokmok_2012-07-30
 毎回はじまる30分前にheroku devcenterの読書会もしようと思ってます。
 
 * [Sendagaya.rb公式サイト](http://sendagayarb.github.com)
-* [Sendagaya.rb # - Zussar](http://www.zusaar.com/event/347006)
+* [Sendagaya.rb #13 - Zussar](http://www.zusaar.com/event/347006)
 
 # 流れ
 * 19:00 説明 + 自己紹介 + 各自やること発表（※1人1分が基本）
@@ -40,7 +40,7 @@ mokmok_2012-07-30
 #
 
 # KPT
-* http://kpt-it.herokuapp.com/6ef3521b4e7396f956e574972947fba1
+* http://kpt-it.herokuapp.com/90d95b0da3163fc4cf52b636e5f01b80
 
 # toggeter
-* http://togetter.com/
+* http://togetter.com/li/347613

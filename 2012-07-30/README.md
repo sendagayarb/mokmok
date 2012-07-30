@@ -13,9 +13,9 @@ mokmok_2012-07-30
 * 19:00 説明 + 自己紹介 + 各自やること発表（※1人1分が基本）
 * 19:15 (集まり次第) Sendagaya.rbの紹介 by [@ppworks](http://twitter.com/ppworks)
 * 19:30 RESTful勉強会の振り返り（復習）
-    * [@tkawa](http://twitter.com/tkawa) [リソースモデリングパターンの提案](http://www.slideshare.net/tkawa1/resource-modeling-pattern)
-    * [@t_wada](http://twitter.com/t_wada) [RESTful Web アプリの設計レビューの話](http://www.slideshare.net/t_wada/restful-web-design-review)
-    * [@moro](http://twitter.com/moro) [一周目のリソース設計](https://speakerdeck.com/u/moro/p/rails-resource-routing-design-bootstrap-ja)
+    * [リソースモデリングパターンの提案](http://www.slideshare.net/tkawa1/resource-modeling-pattern)
+    * [RESTful Web アプリの設計レビューの話](http://www.slideshare.net/t_wada/restful-web-design-review)
+    * [一周目のリソース設計](https://speakerdeck.com/u/moro/p/rails-resource-routing-design-bootstrap-ja)
 * 21:00 振り返り(やったこと発表,KPT)
   * 自分でまとめたREADME.mdをもとに成果を発表（※1人3分が基本）
   * 発表は１台のパソコンでやります見せたいモノがある場合は言ってください。

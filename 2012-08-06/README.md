@@ -19,7 +19,7 @@ RESTfulな勉強会シリーズとして、config/routes.rbお披露目会をし
 * http://kpt-it.herokuapp.com/90d95b0da3163fc4cf52b636e5f01b80
 
 # toggeter
-* http://togetter.com/351570
+* http://togetter.com/li/351570
 
 # blog
 * [#Sendagayarb #14](http://ppworks.hatenablog.jp/entry/sendagayarb14)

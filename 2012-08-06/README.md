@@ -20,3 +20,6 @@ RESTfulな勉強会シリーズとして、config/routes.rbお披露目会をし
 
 # toggeter
 * http://togetter.com/351570
+
+# blog
+* [#Sendagayarb #14](http://ppworks.hatenablog.jp/entry/sendagayarb14)
